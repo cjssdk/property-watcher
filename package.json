@@ -1,0 +1,28 @@
+{
+    "name": "cjs-property-watcher",
+    "version": "0.1.0",
+    "description": "Watches for a property to be assigned a value and runs a function when that occurs.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "repository": "cjssdk/property-watcher",
+    "scripts": {
+        "lint": "eslint ./*.js",
+        "test": "node ./tests/main.js",
+        "jsdoc": "jsdoc --destination doc *.js readme.md"
+    },
+    "devDependencies": {
+        "cjs-eslint-config": "cjssdk/eslint-config"
+    },
+    "keywords": [
+        "commonjs",
+        "sdk",
+        "cjssdk",
+        "framework",
+        "object",
+        "property",
+        "watcher"
+    ],
+    "license": "GPL-3.0"
+}
