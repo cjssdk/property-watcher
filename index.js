@@ -20,10 +20,8 @@ module.exports = function ( obj, name, callback ) {
         },
 
         set: function ( newValue ) {
-            // notify
-            callback(name, oldValue, newValue);
-            // apply
-            oldValue = newValue;
+            // apply and notify
+            callback(name, oldValue, oldValue = newValue);
         }
     });
 };
