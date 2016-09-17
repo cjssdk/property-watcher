@@ -8,7 +8,7 @@
     },
     "repository": "cjssdk/property-watcher",
     "scripts": {
-        "lint": "eslint ./*.js",
+        "lint": "eslint .",
         "mocha": "node ./tests/main.js",
         "test": "npm run mocha && npm run lint",
         "jsdoc": "jsdoc --destination doc *.js readme.md"
