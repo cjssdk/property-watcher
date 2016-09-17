@@ -9,8 +9,10 @@
 
 /* eslint-env mocha */
 
-var should = require('should'),
-    watch  = require('../index');
+var watch = require('../index');
+
+
+require('should');
 
 
 describe('main', function () {
