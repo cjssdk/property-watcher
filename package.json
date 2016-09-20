@@ -6,7 +6,10 @@
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
     },
-    "repository": "cjssdk/property-watcher",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cjssdk/property-watcher.git"
+    },
     "scripts": {
         "lint": "eslint .",
         "mocha": "node ./tests/main.js",
