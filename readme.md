@@ -1,9 +1,10 @@
 Watches for a property modifications
 ====================================
 
-[![Build Status](https://img.shields.io/travis/cjssdk/property-watcher.svg?style=flat-square)](https://travis-ci.org/cjssdk/property-watcher)
-[![NPM version](https://img.shields.io/npm/v/cjs-property-watcher.svg?style=flat-square)](https://www.npmjs.com/package/cjs-property-watcher)
-[![Dependencies Status](https://img.shields.io/david/cjssdk/property-watcher.svg?style=flat-square)](https://david-dm.org/cjssdk/property-watcher)
+[![build status](https://img.shields.io/travis/cjssdk/property-watcher.svg?style=flat-square)](https://travis-ci.org/cjssdk/property-watcher)
+[![npm version](https://img.shields.io/npm/v/cjs-property-watcher.svg?style=flat-square)](https://www.npmjs.com/package/cjs-property-watcher)
+[![dependencies status](https://img.shields.io/david/cjssdk/property-watcher.svg?style=flat-square)](https://david-dm.org/cjssdk/property-watcher)
+[![devDependencies status](https://img.shields.io/david/dev/cjssdk/property-watcher.svg?style=flat-square)](https://david-dm.org/cjssdk/property-watcher?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/cjssdk)
 [![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://runkit.com/npm/cjs-property-watcher)
 
