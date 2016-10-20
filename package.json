@@ -1,6 +1,6 @@
 {
     "name": "cjs-property-watcher",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Watches for a property to be assigned a value and runs a function when that occurs.",
     "author": {
         "name": "Stanislav Kalashnik",
