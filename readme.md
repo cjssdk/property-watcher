@@ -2,17 +2,17 @@ Watches for a property modifications
 ====================================
 
 [![build status](https://img.shields.io/travis/cjssdk/property-watcher.svg?style=flat-square)](https://travis-ci.org/cjssdk/property-watcher)
-[![npm version](https://img.shields.io/npm/v/cjs-property-watcher.svg?style=flat-square)](https://www.npmjs.com/package/cjs-property-watcher)
+[![npm version](https://img.shields.io/npm/v/@cjssdk/property-watcher.svg?style=flat-square)](https://www.npmjs.com/package/@cjssdk/property-watcher)
 [![dependencies status](https://img.shields.io/david/cjssdk/property-watcher.svg?style=flat-square)](https://david-dm.org/cjssdk/property-watcher)
 [![devDependencies status](https://img.shields.io/david/dev/cjssdk/property-watcher.svg?style=flat-square)](https://david-dm.org/cjssdk/property-watcher?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/cjssdk)
-[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://npm.runkit.com/cjs-property-watcher)
+[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://npm.runkit.com/@cjssdk/property-watcher)
 
 
 ## Installation ##
 
 ```bash
-npm install cjs-property-watcher
+npm install @cjssdk/property-watcher
 ```
 
 
@@ -21,7 +21,7 @@ npm install cjs-property-watcher
 Add to the scope:
 
 ```js
-var watch = require('cjs-property-watcher');
+var watch = require('@cjssdk/property-watcher');
 ```
 
 Add hook for an object property:
@@ -51,4 +51,4 @@ according to the contribution [rules](.github/contributing.md).
 
 ## License ##
 
-`cjs-property-watcher` is released under the [MIT License](license.md).
+`@cjssdk/property-watcher` is released under the [MIT License](license.md).
